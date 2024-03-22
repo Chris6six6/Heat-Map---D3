@@ -1,0 +1,16 @@
+body
+{
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    color: white;
+    background: linear-gradient(90deg, rgba(7,21,31,1) 22%, rgba(10,23,33,1) 48%, rgba(7,22,33,1) 75%);
+}
+
+.cell:hover
+{
+    cursor: pointer;
+    fill: #84A09E
+}
